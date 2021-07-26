@@ -1,2 +1,2 @@
 # react-contactmanager
-Basic contact manager app using react following lesson
+Basic contact manager app using react
